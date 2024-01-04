@@ -236,6 +236,10 @@ main {
     background: #efeef3;
 }
 
+.footer--dribbble{
+    color: deeppink;
+}
+
 .footer--twitter {
     color: #3db370;
 }
